@@ -12,7 +12,7 @@ Collaborative and pragmatic professional, experienced in agile teams and focused
 
 ### Technologies I use 
 
-[![My Skills](https://skillicons.dev/icons?i=figma,idea,vscode,androidstudio,github,git,supabase,vim,postman,docker,aws,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,idea,rider,vscode,androidstudio,github,git,supabase,vim,postman,docker,aws,linux&theme=dark)](https://skillicons.dev)
 
 ### Languages ​​I use 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongo,java,spring,cs,dotnet,ts,nest,vue,angular,flutter,react&theme=dark)](https://skillicons.dev)
