@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caioximenes/)
 
 <h2 align="left">A little about me </h2>
-Backend Engineer with experience in Node.js (NestJS) and Java (Spring Boot), working on the development of scalable APIs, microservices, and high-performance systems. Strong experience in cloud environments (AWS), with applications containerized using Docker and orchestrated with Kubernetes.
+Backend Engineer with experience in Node.js (NestJS), C# (.NET) and Java (Spring Boot), working on the development of scalable APIs, microservices, and high-performance systems. Strong experience in cloud environments (AWS), with applications containerized using Docker and orchestrated with Kubernetes.
 
 Hands-on experience with Clean Architecture, DDD, and SOLID principles, including legacy system migration, code standardization, and performance optimization. Experience with PostgreSQL, MongoDB, and MySQL, as well as CI/CD pipelines, Infrastructure as Code (Terraform), and observability using Datadog.
 
